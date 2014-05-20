@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "testApp::syphonServerAnnounced:testApp.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "ofxUIWidget::initRect:ofxUIWidget.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "testApp::guiEvent:testApp.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "ofxPixelMapper::addArea:ofxPixelMapper.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "ofxPixelMapper::setup:ofxPixelMapper.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "ofxVertexBuffer&lt;ofVec2f, 5126u&gt;::drawQuads:ofxVertexBuffer.h">
+      </ContextState>
+      <ContextState
+         contextName = "ofxVertexBuffer&lt;float, 5126u&gt;::draw:ofxVertexBuffer.h">
+      </ContextState>
+      <ContextState
+         contextName = "ofxUISortableList::refreshPositions:ofxUISortableList.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "ofxVertexBuffer&lt;ofVec2f, 5126u&gt;::draw:ofxVertexBuffer.h">
+      </ContextState>
+      <ContextState
+         contextName = "ofxPixelMapper::allocatePixels:ofxPixelMapper.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "ofxUIWidget::initPaddingRect:ofxUIWidget.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "testApp::draw:testApp.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "ofxCanvas::zoom:ofxCanvas.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "ofxPixelMapper::setArea:ofxPixelMapper.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "tData[1]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ofxUIDropDownList::clearToggles:ofxUIDropDownList.cpp">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
